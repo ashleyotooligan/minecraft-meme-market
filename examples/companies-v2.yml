@@ -1,0 +1,53 @@
+# Extended demo market used for local development and screenshots.
+# Values are fictional and intentionally game-like.
+
+companies:
+  creeper-capital:
+    name: "Creeper Capital"
+    ticker: "CREEP"
+    ceo: "ExamplePlayer"
+    total-shares: 402500
+    price: 45.67
+    revenue: 1210000
+    treasury: 8300000
+    volatility-profile: "meme"
+
+  diamond-hands:
+    name: "Diamond Hands Inc."
+    ticker: "DHND"
+    ceo: "BlockTrader"
+    total-shares: 510000
+    price: 102.34
+    revenue: 3450000
+    treasury: 17200000
+    volatility-profile: "stable"
+
+  redstone-rail:
+    name: "Redstone Rail"
+    ticker: "RAIL"
+    ceo: "SignalSteve"
+    total-shares: 345000
+    price: 28.69
+    revenue: 842100
+    treasury: 4900000
+    volatility-profile: "stable"
+
+  piglin-mining:
+    name: "Piglin Mining"
+    ticker: "PIGLN"
+    ceo: "NetherDesk"
+    total-shares: 472000
+    price: 66.66
+    revenue: 2710000
+    treasury: 10800000
+    volatility-profile: "meme"
+
+  villager-ventures:
+    name: "Villager Ventures"
+    ticker: "VILL"
+    ceo: "EmeraldFund"
+    total-shares: 320000
+    price: 19.42
+    revenue: 640200
+    treasury: 2400000
+    volatility-profile: "balanced"
