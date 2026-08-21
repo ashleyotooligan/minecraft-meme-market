@@ -1,0 +1,7 @@
+prefix: "&6[MMM]&r"
+company-created: "&aCreated company &f{name} &7({ticker})"
+unknown-company: "&cUnknown ticker: &f{ticker}"
+trade-complete: "&aTrade complete: &f{shares} {ticker} &7@ &f${price}"
+not-enough-shares: "&cYou do not own enough shares."
+market-closed: "&cThe market is currently paused."
+takeover: "&cHOSTILE TAKEOVER: &f{player} &7now controls &f{company}"

@@ -1,0 +1,26 @@
+market:
+  tick-seconds: 30
+  base-volatility: 0.035
+  max-price-change-per-tick: 0.20
+  liquidity-damping: 0.65
+  minimum-price: 0.01
+
+companies:
+  creation-cost: 2500.0
+  default-total-shares: 100
+  default-starting-price: 10.0
+  minimum-ticker-length: 2
+  maximum-ticker-length: 5
+
+dividends:
+  enabled: true
+  default-payout-ratio: 0.10
+  minimum-payout: 1.0
+
+takeovers:
+  enabled: true
+  control-threshold: 0.51
+  confirmation-seconds: 30
+news:
+  decay-per-tick: 0.20
+  max-impact: 0.50

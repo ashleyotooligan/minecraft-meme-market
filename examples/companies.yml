@@ -1,0 +1,25 @@
+companies:
+  JEAN:
+    name: Jeansen Inc.
+    ticker: JEAN
+    price: 32.0
+    shares: 280
+    treasury: 3400
+    revenue_today: 40
+    dividend_per_share: 3
+  BLOCK:
+    name: Block Labs
+    ticker: BLOCK
+    price: 18.4
+    shares: 500
+    treasury: 8200
+    revenue_today: 760
+    dividend_per_share: 1.2
+  BOOM:
+    name: Creeper Capital
+    ticker: BOOM
+    price: 7.25
+    shares: 1000
+    treasury: 1900
+    revenue_today: 160
+    dividend_per_share: 0.0

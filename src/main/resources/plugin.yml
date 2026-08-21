@@ -1,0 +1,23 @@
+name: MinecraftMemeMarket
+version: 0.1.0
+main: dev.mememarket.MinecraftMemeMarketPlugin
+api-version: '1.21'
+author: Meme Market Contributors
+description: A multiplayer stock market simulation for Minecraft.
+commands:
+  market:
+    description: View market data.
+    usage: /market [quote|top]
+  company:
+    description: Create and inspect companies.
+    usage: /company [create|info]
+  trade:
+    description: Buy and sell company shares.
+    usage: /trade [buy|sell|portfolio]
+  marketadmin:
+    description: Administrative market controls.
+    permission: mememarket.admin
+permissions:
+  mememarket.admin:
+    description: Access to market administration commands.
+    default: op
