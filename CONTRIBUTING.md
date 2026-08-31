@@ -9,6 +9,7 @@ Thanks for helping improve Minecraft Meme Market.
 3. Keep market rules inside service classes rather than command handlers.
 4. Add tests for deterministic mechanics such as dividends and takeover thresholds.
 5. Run `mvn test` before opening a pull request.
+6. Report back.
 
 ## Style
 
