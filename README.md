@@ -168,7 +168,7 @@ The prototype uses a deliberately game-like pricing model rather than trying to 
 
 The result is clamped to avoid a single tick instantly destroying a company. The formula and tuning notes are documented in [`docs/price-engine.md`](docs/price-engine.md).
 
-## Dividends
+## Dividends / Rewards
 
 Companies can distribute a configurable fraction of available cash to shareholders. Payouts are proportional to ownership and are skipped if the treasury cannot cover the distribution.
 
