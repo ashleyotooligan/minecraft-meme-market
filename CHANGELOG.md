@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0 - Prototype
+## 0.1.0 - Playable Prototype
 
 ### Added
 
@@ -15,3 +15,5 @@
 - Market-cap leaderboard
 - YAML persistence
 - Documentation and CI
+- Backtesting added
+- Company flow reduced
