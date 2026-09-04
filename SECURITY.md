@@ -7,4 +7,4 @@ If the future project adds an HTTP API or database credentials, secrets must nev
 Sever details will be shared here:
 
 Server: <TBA>
-IP: <TBA>
+IP Address: <TBA>
