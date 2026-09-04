@@ -27,6 +27,7 @@ docs/market-events.md
 docs/price-engine.md
 docs/roadmap.md
 docs/screenshots.md
+docs/v3.md
 examples/companies.yml
 examples/demo-news.json
 pom.xml
