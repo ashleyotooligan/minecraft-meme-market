@@ -17,3 +17,4 @@
 - Documentation and CI
 - Backtesting added
 - Company flow reduced
+- Flexibles added
